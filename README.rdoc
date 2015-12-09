@@ -8,11 +8,12 @@ I started this app to learn about React.js and solve a problem my friend had wit
 
 
 ##User Story
-* **Users can join a carpool via invitation 
-* **A carpool has a limited number of invitations based on car seats
-* **A carpool has a calendar with the destinations 
-* **Users recieve a reminder email/text the night before their turn to drive
-* ** 
+* Users can join a carpool via invitation 
+* A carpool has a limited number of invitations based on car seats
+* A carpool has a calendar with the destinations 
+* Users recieve a reminder email/text the night before their turn to drive
+* Both users for a time slot must agree to switch roles
+
 
 
 

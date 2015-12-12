@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-12-12
+  time: MyString
+  driver: MyString
+  start_point: MyString
+  destination: MyString
+  number_of_children: 1
+
+two:
+  date: 2015-12-12
+  time: MyString
+  driver: MyString
+  start_point: MyString
+  destination: MyString
+  number_of_children: 1
